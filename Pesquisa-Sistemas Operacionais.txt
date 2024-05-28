@@ -1,0 +1,15 @@
+O que é um sistema operacional?
+O sistema operacional é um software, ou conjunto de softwares, cuja função é administrar e gerenciar os recursos de um sistema, desde componentes de hardware e sistemas de arquivos a programas de terceiros, estabelecendo a interface entre o computador e o usuário. Fundamentalmente, um sistema operacional é um software, que pode ser o Linux, Windows, Android, macOS, UNIX, entre outros. No entanto, ele não resume aquilo voce consegue ver ou ao que você consegue interagir.È um programa que conversa diretamente com o hardware da sua máquina.
+O Sistema operacional é a alma de um aparelho eletronico inteligente. No celular por exemplo, apesar de ter cameras, processador, bateria, acabamentos, etc, é o sistema operacional que da vida a tudo.
+Um sistema operacional contém componentes divididos entre os para o usuário (como bibliotecas, programas e interface) e as instruções que compõem o seu núcleo (kernel).
+O que é kernel?
+Ele serve como uma ponte entre o hardware e o software, ele gerencia os recursos da maquina para que os programas sejam executados e usem todos os componentes de maneira correta, ele tem várias funçoes como:
+
+Estabelecer a camada de abstração de baixo nível (linguagem de máquina) com o hardware;
+Gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de entrada e saída (monitor, teclado, mouse, impressora, etc.);
+Gerenciar processos (execução) de programas;
+Gerenciar o uso de dispositivos, memória do sistema e chamadas dos programas, definindo quais têm prioridade.
+
+Funçao dos sistemas operacionais: o sistema operacional surgiu para intermediar o diálogo entre máquina e pessoa, executando programas de usuario para solucionar problemas de maneira mais facil, e garantir que um programa nao interfira em outro. Ele gerencia os recursos, contribuindo para uma execuçao mais conveniente.
+
+Existem vários sistemas operacionais, como: iOS Da Apple, Android do google, Windows Da Microsoft, macOS da apple, Linux, ChromeOS do google.
